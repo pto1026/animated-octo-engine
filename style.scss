@@ -1,0 +1,17 @@
+.card {
+    &__text {
+
+        &--left {
+            color: white;
+            background-color: orangered;
+        }
+
+        &--mid {
+            border: 1px solid black;
+        }
+
+        &--right {
+            font-size: 2rem;
+        }
+    }
+}

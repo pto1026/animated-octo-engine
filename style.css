@@ -1,0 +1,9 @@
+.card__text--left {
+  color: white;
+  background-color: orangered; }
+
+.card__text--mid {
+  border: 1px solid black; }
+
+.card__text--right {
+  font-size: 2rem; }
